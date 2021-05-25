@@ -6,6 +6,8 @@ I am a fourth year Computer Science Student at Northeastern Universirty. Here ar
 
 - https://github.com/bendavp/drug-interactions
 
+For source code on other projects, please email me @ rameshsethuraman.d@northeastern.edu
+
 
 
 <!---
