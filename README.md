@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Deepak Ramesh Sethuraman
 
-I am a fourth year Computer Science Student at Northeastern Universirty. Here are the links to my projects:
+I am a fourth year Computer Science Student at Northeastern Universirty. 
 
+
+This is the link to our project in NuHacks 2020:
 - https://github.com/pl-playground/programming-language-playground
 
-- https://github.com/bendavp/drug-interactions
 
 For source code on other projects, please email me @ rameshsethuraman.d@northeastern.edu
 
